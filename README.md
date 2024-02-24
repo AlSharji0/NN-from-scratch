@@ -1,1 +1,1 @@
-Building a NN from scratch, limited to using numpy and matplotlib. In order to obtain a deeper understanding of how NNs work.
+Building a NN from scratch, limited to using numpy and matplotlib.
