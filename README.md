@@ -1,1 +1,1 @@
-Building a NN from scratch, limited to using numpy and matplotlib.
+Building a NN from scratch, limited to using numpy.
